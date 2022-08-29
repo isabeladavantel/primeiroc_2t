@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>isabela davntel</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+
+<body>
+  <div class="logoGastao">
+    <img height="100px" width="120px" src="sistema solar" alt="">
+  </div>
+  <div class="menuPrincipal">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="pagina01.html">CHL</a></li>
+        <li><a href="pagina02.html">CNM</a></li>
+      </ul>
+    </nav>
+  </div>
+  
+  <div class="conteudo">
+    <h1>Sistema Solar</h1>
+    <p>
+      O Sistema Solar é um conjunto de corpos celestes que gravitam na órbita de um sol (uma estrela).
+
+O nosso sistema solar é formado por oito planetas: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno
+    </p>
+     <p>Além deles, existem mais cinco planetas anões (Ceres, Plutão, Haumea, Makemake, Éris) e muitos outros astros, como satélites naturais, asteroides, meteoros, meteoroides e cometas.
+
+      O Sol e todo o nosso sistema solar faz parte de uma galáxia, que se chama Via-Láctea.</p>
+     <div class="video">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mUfCmvvJGRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <h2>Formação do Sistema Solar</h2>
+    
+    Sendo assim, há 4,5 bilhões de anos, sua porção central teria formado uma estrela, e a matéria exterior se contraiu por algum tipo de perturbação, dando origem aos planetas.
+
+
+    </p>
+    Acredita-se que o Sistema Solar tenha se formado há aproximadamente 5 bilhões de anos a partir de um lento processo de contração e rotação de uma enorme nuvem de gases e poeira cósmica, conhecida como nebulosa solar.
+    </p>
+
+    Durante esse processo, a velocidade de rotação dessa nuvem aumentou progressivamente, fazendo-a assumir o formato de um disco achatado. Em seu centro, onde acumulou-se a maior parte do material formou-se o Sol. Em torno do Sol, então, gases e poeira cósmica em rotação formaram aglomerados que originaram, progressivamente diversos protoplanetas, restando hoje oito corpos planetários principais, além de cometas e meteoroides.
+    </p>O Sistema Solar está situado na periferia da Via Láctea, uma galáxia formada por centenas de bilhões de estrelas, que se movem de forma complexa.
+
+
+
+
+    <p>
+
+    </p>
+    <div class="capaRodape">
+      <div id="rodape">
+        &copy;isabela davantel - Direitos Reservados
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+</body>
+
+</html>
